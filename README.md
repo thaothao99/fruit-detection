@@ -13,6 +13,8 @@ Có nhiều mô hình CNN để lựa chọn như LeNet, GoogLenet, inception, r
 <h2><b>3. Các bước thực hiện</b></h2>
 Các bước xây dựng mô hình được dựa trên phương pháp trasfer learning. Theo cách tiếp cận là fine-tuning cho phù hợp với yêu cầu của bài toán và tập dữ liệu.
 Thực nghiệm được được tiến hành bằng cách sử dụng lại một pre-trained model của Inception v3, VGG16, Resnet-152 được huấn luyện trên bộ dữ liệu Image net vì tính đương đồng về đặc trưng.
-<b>Bước 1: Thực hiện train dữ liệu với file Fruits_model_VGG16.ipynb trên Google Colab </b>
-<b>Bước 2: Download file model trained_vgg16.h5</b>
-<b>Bước 3: Chạy ứng dụng</b>
+<ul>
+  <li><b>Bước 1: Thực hiện train dữ liệu với file Fruits_model_VGG16.ipynb trên Google Colab </b></li>
+  <li><b>Bước 2: Download file model trained_vgg16.h5</b></li>
+  <li><b>Bước 3: Chạy ứng dụng</b></li>
+</ul>
